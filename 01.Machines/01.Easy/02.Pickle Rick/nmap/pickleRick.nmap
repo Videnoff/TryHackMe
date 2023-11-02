@@ -1,0 +1,17 @@
+# Nmap 7.94 scan initiated Sun Oct 29 19:18:51 2023 as: nmap -sC -sV -oA nmap/pickleRick 10.10.72.218
+Nmap scan report for 10.10.72.218
+Host is up (0.047s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 7.2p2 Ubuntu 4ubuntu2.6 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   2048 50:71:c0:9e:6e:76:6b:07:88:93:54:46:bc:c6:78:1a (RSA)
+|   256 39:a4:90:f3:34:28:03:7c:8a:ff:56:ff:5d:ce:c2:82 (ECDSA)
+|_  256 98:4b:0c:49:ad:5a:3f:a9:22:83:4d:8e:dc:4d:71:7d (ED25519)
+80/tcp open  http    Apache httpd 2.4.18 ((Ubuntu))
+|_http-title: Rick is sup4r cool
+|_http-server-header: Apache/2.4.18 (Ubuntu)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Oct 29 19:19:01 2023 -- 1 IP address (1 host up) scanned in 10.30 seconds
