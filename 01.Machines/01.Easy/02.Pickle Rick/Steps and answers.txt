@@ -1,0 +1,42 @@
+IP: 10.10.24.98
+
+Nmap scan:
+
+nmap -sC -sV 10.10.24.98
+
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 7.2p2 Ubuntu 4ubuntu2.6 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   2048 1d:80:2c:be:21:59:64:60:94:40:e9:06:a2:48:bf:5c (RSA)
+|   256 e6:ed:d1:d1:b6:4e:ea:69:9c:67:21:c9:1d:47:73:4d (ECDSA)
+|_  256 7f:8b:7b:b4:cc:bf:25:4a:9e:9c:33:c1:84:d5:08:fa (ED25519)
+80/tcp open  http    Apache httpd 2.4.18 ((Ubuntu))
+|_http-title: Rick is sup4r cool
+|_http-server-header: Apache/2.4.18 (Ubuntu)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+
+Nikto scan:
+
+nikto -h 10.10.24.98
+
+
+GoBustes scan:
+
+gobuster dir --url http://10.10.24.98/ --wordlist /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -x php,sh,txt,cgi,html,js,css,py
+
+
+Credentials found:
+
+Username: R1ckRul3s (found in source page)
+Password: Wubbalubbadubdub (found in robots.txt)
+
+
+What is the first ingredient that Rick needs?
+A: mr. meeseek hair
+
+What is the second ingredient in Rick’s potion?
+A: 1 jerry tear
+
+What is the last and final ingredient?
+A: fleeb juice
