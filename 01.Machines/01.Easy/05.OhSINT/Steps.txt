@@ -1,0 +1,33 @@
+Image Reconnaissance
+
+eog {filename} - open the Image
+file {filename} - show info about the file (image)
+exiftool {filename} - show metadata for image
+strings {filename} - show metadata and strings if any
+
+
+What is this user''s avatar of?
+// Search google for information from the image (OWoodflint - twitter user avatar)
+    - cat
+
+What city is this person in?
+// Search google for information from the image (OWoodflint - github account)
+    -London
+
+What is the SSID of the WAP he connected to?
+// Search https://wigle.net/ with BSSID
+    - UnileverWiFi
+
+What is his personal email address?
+// Search google for information from the image (OWoodflint - github account)
+    - OWoodflint@gmail.com
+
+What site did you find his email address on?
+// Search google for information from the image (OWoodflint - github account)
+    - Github
+
+Where has he gone on holiday?
+// Search google for information from the image (OWoodflint - wordpress site account)
+    - New York
+
+What is the person''s password?
