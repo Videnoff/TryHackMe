@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "19a4c606099807e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "942a931f31dfa47f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e868678b7354d8b2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9fa79e1ea912a05",
+    "type": "split",
+    "children": [
+      {
+        "id": "edd5c243004b4381",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3c825e79c98a530",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a42ddc53618d49f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "435c61e76682a477",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "cb387491e4392a57",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5adc67c6c77c19d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e557041790da2884",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a23e2a4dc5b876e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1ab903dc7149c83",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2761fb6f9e810649",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "8170824e526be66c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fcb66f9256cc1f3b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "d3c825e79c98a530",
+  "lastOpenFiles": [
+    "Untitled 1",
+    "Untitled",
+    "03.Windows Fundamentals 3/Task 10 Conclusion.md",
+    "03.Windows Fundamentals 3/Task 9 Volume Shadow Copy Service.md",
+    "03.Windows Fundamentals 3/Task 8 BitLocker.md",
+    "03.Windows Fundamentals 3/Task 7 Device security.md",
+    "03.Windows Fundamentals 3/Task 6 App & browser control.md",
+    "03.Windows Fundamentals 3/Task 5 Firewall & network protection.md",
+    "03.Windows Fundamentals 3/Task 4 Virus & threat protection.md",
+    "03.Windows Fundamentals 3/Task 3 Windows Security.md",
+    "03.Windows Fundamentals 3/Task 2 Windows Updates.md",
+    "03.Windows Fundamentals 3/Task 1 Introduction.md",
+    "03.Windows Fundamentals 3/Attachments",
+    "02.Windows Fundamentals 2/Task 9 Conclusion.md",
+    "03.Windows Fundamentals 3",
+    "02.Windows Fundamentals 2/Task 8 Registry Editor.md",
+    "02.Windows Fundamentals 2/Task 7 Command Prompt.md",
+    "02.Windows Fundamentals 2/Task 6 Resource Monitor.md",
+    "02.Windows Fundamentals 2/Task 5 System Information.md",
+    "02.Windows Fundamentals 2/Task 4 Computer Management.md",
+    "02.Windows Fundamentals 2/Task 3 Change UAC Settings.md",
+    "02.Windows Fundamentals 2/Task 2 System Configuration.md",
+    "02.Windows Fundamentals 2/Task 1 Introduction.md",
+    "01.Windows Fundamentals 1/Task 10 Conclusion.md",
+    "02.Windows Fundamentals 2/Atachments",
+    "02.Windows Fundamentals 2",
+    "01.Windows Fundamentals 1/Task 9 Task Manager.md",
+    "01.Windows Fundamentals 1/Task 8 Settings and the Control Panel.md",
+    "01.Windows Fundamentals 1/Task 6 User Accounts, Profiles, and Permissions.md",
+    "01.Windows Fundamentals 1/Task 5 The Windows System32 Folders.md",
+    "01.Windows Fundamentals 1/Task 4 The File System.md",
+    "01.Windows Fundamentals 1/Attachments",
+    "01.Windows Fundamentals 1/Attachments/Pasted image 20231125193453.png",
+    "01.Windows Fundamentals 1/Attachments/Pasted image 20231125193439.png"
+  ]
+}
