@@ -1,2 +1,1 @@
-# TryHackMe
-Pwned machines from TryHackMe
+![tryhackme stats](https://raw.githubusercontent.com/Videnoff/Videnoff/master/assets/thm_propic.png)
