@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "69c39287024f4ac5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4d5019e978b2585",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0440611a2448e666",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b91d6a9f1d33df0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1259a170fda40134",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3538ca036f6a6bb5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "910f6015f8e19174",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9630ee9da7f9f50b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e65ff6f1206557d",
+        "type": "tabs",
+        "dimension": 32.88718929254301,
+        "children": [
+          {
+            "id": "9a8212a5f95d53f3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8ffd142760bc9050",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "042dff8decbf6f98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f8a8785ddd817fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e4142f2fa44ff17d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6c948960e8663492",
+        "type": "tabs",
+        "dimension": 33.556405353728486,
+        "children": [
+          {
+            "id": "0323071dcdeed2e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "070ebc3276469d7b",
+        "type": "tabs",
+        "dimension": 33.556405353728486,
+        "children": [
+          {
+            "id": "56195165dd87c34e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "0440611a2448e666",
+  "lastOpenFiles": [
+    "Task 10 Privilege Escalation - PATH.md",
+    "Task 11 Privilege Escalation - NFS.md",
+    "Task 12 Capstone Challenge.md",
+    "Attachments/Pasted image 20231217010328.png",
+    "Attachments/Pasted image 20231217010302.png",
+    "Attachments/Pasted image 20231217005712.png",
+    "Attachments/Pasted image 20231217005519.png",
+    "missyPass",
+    "Attachments/Pasted image 20231217005300.png",
+    "Attachments/Pasted image 20231217005228.png",
+    "Attachments/Pasted image 20231217005129.png",
+    "Attachments/Pasted image 20231217004614.png",
+    "Attachments/Pasted image 20231217003928.png",
+    "Attachments/Pasted image 20231217003919.png",
+    "Task 7 Privilege Escalation - SUID.md",
+    "The Complete Linux Privilege Escalation Capstone TryHackMe Junior Penetration Tester.mp4",
+    "Task 11 Privilege Escalation - NFS (conflicted).md",
+    "Task 9 Privilege Escalation - Cron Jobs.md",
+    "Task 11 Privilege Escalation - NFS.md.part",
+    "matt.txt",
+    "matt",
+    "Task 8 Privilege Escalation - Capabilities.md",
+    "user2Hash.txt",
+    "Task 6 Privilege Escalation - Sudo.md",
+    "Task 5 Privilege Escalation - Kernel Exploits.md",
+    "Task 2 What is Privilege Escalation?.md",
+    "Task 3 Enumeration.md",
+    "Task 4 Automated Enumeration Tools.md",
+    "flag1.txt",
+    "37292.c",
+    "ofc",
+    "40688.rb",
+    "Task 1 Introduction.md",
+    "02.Reconnaissance Fundamentals/08.Introduction to Metasploit/02.How to work with Metasploit?/04.Exploit worked, now what?.md",
+    "02.Reconnaissance Fundamentals/08.Introduction to Metasploit/02.How to work with Metasploit?/03.How to config the exploit?.md",
+    "02.Reconnaissance Fundamentals/08.Introduction to Metasploit/02.How to work with Metasploit?/02.How to trigger exploit?.md",
+    "02.Reconnaissance Fundamentals/08.Introduction to Metasploit/02.How to work with Metasploit?/01.How to search for everything?.md",
+    "02.Reconnaissance Fundamentals/08.Introduction to Metasploit/01.What is Metasploit?/Metasploit in a nutshell.md",
+    "02.Reconnaissance Fundamentals/08.Introduction to Metasploit/02.How to work with Metasploit?/05.How to manage multiple sessions?.md",
+    "02.Reconnaissance Fundamentals/07.Best practices for Documentation/02.How to take notes efficiently?/03.Note taking methodology.md",
+    "02.Reconnaissance Fundamentals/07.Best practices for Documentation/02.How to take notes efficiently?/02.Note taking methodology.md",
+    "02.Reconnaissance Fundamentals/07.Best practices for Documentation/02.How to take notes efficiently?/01.In the scope of the course, we will use Obsidian.md",
+    "02.Reconnaissance Fundamentals/07.Best practices for Documentation/01.Why taking notes is Important?/Taking notes is a must!.md",
+    "02.Reconnaissance Fundamentals/02.Passive Reconnaissance/02.Techniques/01.Scanning DNS.md",
+    "02.Reconnaissance Fundamentals/06.System scanning/02.Windows/02.Tools for Windows Privesc.md"
+  ]
+}
