@@ -1,1 +1,1 @@
-![tryhackme stats](https://raw.githubusercontent.com/Videnoff/Videnoff/master/assets/thm_propic.png)
+<image src="https://tryhackme-badges.s3.amazonaws.com/IIV.png" alt="Hack The Box" style="max-width: 256px; display: inline">
