@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "69c39287024f4ac5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8327e55c6d33d19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ac9805ab7c27c50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task 5 Service Escalation - Registry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b91d6a9f1d33df0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1259a170fda40134",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3538ca036f6a6bb5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "910f6015f8e19174",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9630ee9da7f9f50b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e65ff6f1206557d",
+        "type": "tabs",
+        "dimension": 32.88718929254301,
+        "children": [
+          {
+            "id": "9a8212a5f95d53f3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8ffd142760bc9050",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Task 5 Service Escalation - Registry.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "042dff8decbf6f98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Task 5 Service Escalation - Registry.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f8a8785ddd817fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e4142f2fa44ff17d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Task 5 Service Escalation - Registry.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6c948960e8663492",
+        "type": "tabs",
+        "dimension": 33.556405353728486,
+        "children": [
+          {
+            "id": "0323071dcdeed2e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "070ebc3276469d7b",
+        "type": "tabs",
+        "dimension": 33.556405353728486,
+        "children": [
+          {
+            "id": "56195165dd87c34e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "4ac9805ab7c27c50",
+  "lastOpenFiles": [
+    "Attachments/Pasted image 20240130232213.png",
+    "Attachments/Pasted image 20240130232058.png",
+    "Attachments/Pasted image 20240130232003.png",
+    "Attachments/Pasted image 20240130231828.png",
+    "Attachments/Pasted image 20240130230923.png",
+    "Attachments/Pasted image 20240130230740.png",
+    "Attachments/Pasted image 20240130230333.png",
+    "Attachments/Pasted image 20240130225909.png",
+    "Attachments/Pasted image 20240130225411.png",
+    "Attachments/Pasted image 20240130225245.png",
+    "Task 3 Registry Escalation - Autorun.md",
+    "Task 2 Deploy the vulnerable machine.md",
+    "Task 1 Connecting to TryHackMe network.md",
+    "Task 5 Service Escalation - Registry.md",
+    "Task 4 Registry Escalation - AlwaysInstallElevated.md",
+    "Attachments/Pasted image 20240130224233.png",
+    "Attachments/Untitled",
+    "Attachments",
+    "Task 10 Privilege Escalation - PATH.md",
+    "Task 11 Privilege Escalation - NFS.md",
+    "Task 12 Capstone Challenge.md",
+    "missyPass",
+    "Task 7 Privilege Escalation - SUID.md",
+    "The Complete Linux Privilege Escalation Capstone TryHackMe Junior Penetration Tester.mp4",
+    "Task 11 Privilege Escalation - NFS (conflicted).md",
+    "Task 9 Privilege Escalation - Cron Jobs.md",
+    "Task 11 Privilege Escalation - NFS.md.part",
+    "matt.txt",
+    "matt",
+    "Task 8 Privilege Escalation - Capabilities.md",
+    "user2Hash.txt",
+    "Task 6 Privilege Escalation - Sudo.md",
+    "Task 5 Privilege Escalation - Kernel Exploits.md",
+    "Task 2 What is Privilege Escalation?.md",
+    "Task 3 Enumeration.md",
+    "Task 4 Automated Enumeration Tools.md",
+    "flag1.txt",
+    "37292.c",
+    "Task 1 Introduction.md",
+    "02.Reconnaissance Fundamentals/08.Introduction to Metasploit/02.How to work with Metasploit?/04.Exploit worked, now what?.md",
+    "02.Reconnaissance Fundamentals/08.Introduction to Metasploit/02.How to work with Metasploit?/03.How to config the exploit?.md",
+    "02.Reconnaissance Fundamentals/08.Introduction to Metasploit/02.How to work with Metasploit?/02.How to trigger exploit?.md",
+    "02.Reconnaissance Fundamentals/08.Introduction to Metasploit/02.How to work with Metasploit?/01.How to search for everything?.md",
+    "02.Reconnaissance Fundamentals/08.Introduction to Metasploit/01.What is Metasploit?/Metasploit in a nutshell.md",
+    "02.Reconnaissance Fundamentals/08.Introduction to Metasploit/02.How to work with Metasploit?/05.How to manage multiple sessions?.md",
+    "02.Reconnaissance Fundamentals/07.Best practices for Documentation/02.How to take notes efficiently?/03.Note taking methodology.md"
+  ]
+}
