@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ac9805ab7c27c50",
+            "id": "a2d67df5bedb73ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task 5 Service Escalation - Registry.md",
+                "file": "Task 12 Password Mining Escalation - Configuration Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task 5 Service Escalation - Registry.md",
+                "file": "Task 12 Password Mining Escalation - Configuration Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task 5 Service Escalation - Registry.md",
+                "file": "Task 12 Password Mining Escalation - Configuration Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task 5 Service Escalation - Registry.md"
+                "file": "Task 12 Password Mining Escalation - Configuration Files.md"
               }
             }
           }
@@ -177,24 +177,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4ac9805ab7c27c50",
+  "active": "a2d67df5bedb73ba",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20240130232213.png",
-    "Attachments/Pasted image 20240130232058.png",
-    "Attachments/Pasted image 20240130232003.png",
-    "Attachments/Pasted image 20240130231828.png",
-    "Attachments/Pasted image 20240130230923.png",
-    "Attachments/Pasted image 20240130230740.png",
-    "Attachments/Pasted image 20240130230333.png",
-    "Attachments/Pasted image 20240130225909.png",
-    "Attachments/Pasted image 20240130225411.png",
-    "Attachments/Pasted image 20240130225245.png",
+    "Task 8 Service Escalation - DLL Hijacking.md",
+    "Attachments/Pasted image 20240207202543.png",
+    "Attachments/Pasted image 20240207202429.png",
+    "Task 7 Privilege Escalation - Startup Applications.md",
+    "Attachments/Pasted image 20240207194258.png",
+    "Attachments/Pasted image 20240207194013.png",
+    "Attachments/Pasted image 20240207193919.png",
+    "Attachments/Pasted image 20240207193706.png",
+    "Attachments/Pasted image 20240207193604.png",
+    "Task 9 Service Escalation - binPath.md",
+    "Task 10 Service Escalation - Unquoted Service Paths.md",
+    "Task 11 Potato Escalation - Hot Potato.md",
+    "Task 12 Password Mining Escalation - Configuration Files.md",
+    "Task 13 Password Mining Escalation - Memory.md",
+    "Task 14 Privilege Escalation - Kernel Exploits.md",
+    "Attachments/Pasted image 20240206224920.png",
+    "Attachments/Pasted image 20240206224631.png",
+    "Attachments/Pasted image 20240206224443.png",
     "Task 3 Registry Escalation - Autorun.md",
+    "Task 4 Registry Escalation - AlwaysInstallElevated.md",
+    "Task 5 Service Escalation - Registry.md",
+    "Task 6 Service Escalation - Executable Files.md",
     "Task 2 Deploy the vulnerable machine.md",
     "Task 1 Connecting to TryHackMe network.md",
-    "Task 5 Service Escalation - Registry.md",
-    "Task 4 Registry Escalation - AlwaysInstallElevated.md",
-    "Attachments/Pasted image 20240130224233.png",
     "Attachments/Untitled",
     "Attachments",
     "Task 10 Privilege Escalation - PATH.md",
@@ -214,16 +222,7 @@
     "Task 5 Privilege Escalation - Kernel Exploits.md",
     "Task 2 What is Privilege Escalation?.md",
     "Task 3 Enumeration.md",
-    "Task 4 Automated Enumeration Tools.md",
     "flag1.txt",
-    "37292.c",
-    "Task 1 Introduction.md",
-    "02.Reconnaissance Fundamentals/08.Introduction to Metasploit/02.How to work with Metasploit?/04.Exploit worked, now what?.md",
-    "02.Reconnaissance Fundamentals/08.Introduction to Metasploit/02.How to work with Metasploit?/03.How to config the exploit?.md",
-    "02.Reconnaissance Fundamentals/08.Introduction to Metasploit/02.How to work with Metasploit?/02.How to trigger exploit?.md",
-    "02.Reconnaissance Fundamentals/08.Introduction to Metasploit/02.How to work with Metasploit?/01.How to search for everything?.md",
-    "02.Reconnaissance Fundamentals/08.Introduction to Metasploit/01.What is Metasploit?/Metasploit in a nutshell.md",
-    "02.Reconnaissance Fundamentals/08.Introduction to Metasploit/02.How to work with Metasploit?/05.How to manage multiple sessions?.md",
-    "02.Reconnaissance Fundamentals/07.Best practices for Documentation/02.How to take notes efficiently?/03.Note taking methodology.md"
+    "37292.c"
   ]
 }
