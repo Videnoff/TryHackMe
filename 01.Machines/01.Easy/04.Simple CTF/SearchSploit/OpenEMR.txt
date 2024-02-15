@@ -1,0 +1,12 @@
+# searchsploit openemr 5.0.1.3   
+------------------------------------------- ---------------------------------
+ Exploit Title                             |  Path
+------------------------------------------- ---------------------------------
+OpenEMR 5.0.1.3 - 'manage_site_files' Remo | php/webapps/49998.py
+OpenEMR 5.0.1.3 - 'manage_site_files' Remo | php/webapps/50122.rb
+OpenEMR 5.0.1.3 - (Authenticated) Arbitrar | linux/webapps/45202.txt
+OpenEMR 5.0.1.3 - Authentication Bypass    | php/webapps/50017.py
+OpenEMR 5.0.1.3 - Remote Code Execution (A | php/webapps/45161.py
+------------------------------------------- ---------------------------------
+Shellcodes: No Results
+Papers: No Results

@@ -1,0 +1,62 @@
+searchsploit openemr 5.0.1.3   
+------------------------------------------- ---------------------------------
+ Exploit Title                             |  Path
+------------------------------------------- ---------------------------------
+OpenEMR 5.0.1.3 - 'manage_site_files' Remo | php/webapps/49998.py
+OpenEMR 5.0.1.3 - 'manage_site_files' Remo | php/webapps/50122.rb
+OpenEMR 5.0.1.3 - (Authenticated) Arbitrar | linux/webapps/45202.txt
+OpenEMR 5.0.1.3 - Authentication Bypass    | php/webapps/50017.py
+OpenEMR 5.0.1.3 - Remote Code Execution (A | php/webapps/45161.py
+------------------------------------------- ---------------------------------
+Shellcodes: No Results
+Papers: No Results
+                                                                             
+┌──(root㉿kali)-[/home/…/TryHackMe/02.Machines/01.Easy/04.Simple CTF]
+└─# searchsploit cms made simple
+------------------------------------------- ---------------------------------
+ Exploit Title                             |  Path
+------------------------------------------- ---------------------------------
+CMS Made Simple (CMSMS) Showtime2 - File U | php/remote/46627.rb
+CMS Made Simple 0.10 - 'index.php' Cross-S | php/webapps/26298.txt
+CMS Made Simple 0.10 - 'Lang.php' Remote F | php/webapps/26217.html
+CMS Made Simple 1.0.2 - 'SearchInput' Cros | php/webapps/29272.txt
+CMS Made Simple 1.0.5 - 'Stylesheet.php' S | php/webapps/29941.txt
+CMS Made Simple 1.11.10 - Multiple Cross-S | php/webapps/32668.txt
+CMS Made Simple 1.11.9 - Multiple Vulnerab | php/webapps/43889.txt
+CMS Made Simple 1.2 - Remote Code Executio | php/webapps/4442.txt
+CMS Made Simple 1.2.2 Module TinyMCE - SQL | php/webapps/4810.txt
+CMS Made Simple 1.2.4 Module FileManager - | php/webapps/5600.php
+CMS Made Simple 1.4.1 - Local File Inclusi | php/webapps/7285.txt
+CMS Made Simple 1.6.2 - Local File Disclos | php/webapps/9407.txt
+CMS Made Simple 1.6.6 - Local File Inclusi | php/webapps/33643.txt
+CMS Made Simple 1.6.6 - Multiple Vulnerabi | php/webapps/11424.txt
+CMS Made Simple 1.7 - Cross-Site Request F | php/webapps/12009.html
+CMS Made Simple 1.8 - 'default_cms_lang' L | php/webapps/34299.py
+CMS Made Simple 1.x - Cross-Site Scripting | php/webapps/34068.html
+CMS Made Simple 2.1.6 - 'cntnt01detailtemp | php/webapps/48944.py
+CMS Made Simple 2.1.6 - Multiple Vulnerabi | php/webapps/41997.txt
+CMS Made Simple 2.1.6 - Remote Code Execut | php/webapps/44192.txt
+CMS Made Simple 2.2.14 - Arbitrary File Up | php/webapps/48779.py
+CMS Made Simple 2.2.14 - Authenticated Arb | php/webapps/48742.txt
+CMS Made Simple 2.2.14 - Persistent Cross- | php/webapps/48851.txt
+CMS Made Simple 2.2.15 - 'title' Cross-Sit | php/webapps/49793.txt
+CMS Made Simple 2.2.15 - RCE (Authenticate | php/webapps/49345.txt
+CMS Made Simple 2.2.15 - Stored Cross-Site | php/webapps/49199.txt
+CMS Made Simple 2.2.5 - (Authenticated) Re | php/webapps/44976.py
+CMS Made Simple 2.2.7 - (Authenticated) Re | php/webapps/45793.py
+CMS Made Simple < 1.12.1 / < 2.1.3 - Web S | php/webapps/39760.txt
+CMS Made Simple < 2.2.10 - SQL Injection   | php/webapps/46635.py
+CMS Made Simple Module Antz Toolkit 1.02 - | php/webapps/34300.py
+CMS Made Simple Module Download Manager 1. | php/webapps/34298.py
+CMS Made Simple Showtime2 Module 3.6.2 - ( | php/webapps/46546.py
+CmsMadeSimple v2.2.17 - Remote Code Execut | php/webapps/51600.txt
+CmsMadeSimple v2.2.17 - session hijacking  | php/webapps/51599.txt
+CmsMadeSimple v2.2.17 - Stored Cross-Site  | php/webapps/51601.txt
+------------------------------------------- ---------------------------------
+Shellcodes: No Results
+------------------------------------------- ---------------------------------
+ Paper Title                               |  Path
+------------------------------------------- ---------------------------------
+CMS Made Simple v2.2.13 - Paper            | docs/english/49947-cms-made-simp
+------------------------------------------- ---------------------------------
+                                                                             
