@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "69c39287024f4ac5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8327c4dd33b9b1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5f285a8b2e36b1e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b91d6a9f1d33df0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1259a170fda40134",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3538ca036f6a6bb5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "910f6015f8e19174",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9630ee9da7f9f50b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e65ff6f1206557d",
+        "type": "tabs",
+        "dimension": 32.88718929254301,
+        "children": [
+          {
+            "id": "9a8212a5f95d53f3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8ffd142760bc9050",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "042dff8decbf6f98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f8a8785ddd817fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e4142f2fa44ff17d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6c948960e8663492",
+        "type": "tabs",
+        "dimension": 33.556405353728486,
+        "children": [
+          {
+            "id": "0323071dcdeed2e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "070ebc3276469d7b",
+        "type": "tabs",
+        "dimension": 33.556405353728486,
+        "children": [
+          {
+            "id": "56195165dd87c34e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "d5f285a8b2e36b1e",
+  "lastOpenFiles": [
+    "Task 10 Further Reading.md",
+    "Task 9 ZAP Extensions.md",
+    "Task 8 Bruteforce Web Login.md",
+    "Task 7 Brute-force Directories.md",
+    "Task 6 Scanning an Authenticated Web Application.md",
+    "Task 5 Manual Scanning.md",
+    "Task 4 How to perform an automated scan.md",
+    "Task 3 Installation.md",
+    "Task 2 Disclaimer.md",
+    "Task 1 Intro to ZAP.md",
+    "Attachments/Pasted image 20240218233618.png",
+    "Attachments/Pasted image 20240218202715.png",
+    "Task 2 Using Hydra.md",
+    "Attachments",
+    "Attachments/Pasted image 20240218204001.png",
+    "Attachments/Pasted image 20240218203835.png",
+    "Attachments/Pasted image 20240218203521.png",
+    "Attachments/Pasted image 20240218203421.png",
+    "Attachments/Pasted image 20240218203034.png",
+    "Attachments/Pasted image 20240218202959.png",
+    "Task 1 Hydra Introduction.md",
+    "Welcome.md",
+    "Task 1 Starting your first machine.md",
+    "Task 5 Task 5.md",
+    "Task 4 Task 4.md",
+    "Task 3 Task 3.md",
+    "Task 2 Task 2.md",
+    "Task 1 Task 1.md",
+    "Task 6 Conclusion.md",
+    "Task 5 Starts with or ends with, groups, and either or.md",
+    "Task 4 Metacharacters and repetitions.md",
+    "Task 3 Wildcards and optional characters.md",
+    "Task 2 Charsets.md",
+    "Task 1 Introduction.md",
+    "Task 6 Conditionals.md",
+    "Attachments",
+    "Attachments/Pasted image 20240213202853.png",
+    "Attachments/Pasted image 20240213195743.png",
+    "03.System and Network Compromising/01.Wireless Hacking Workshop/04.Attacking Wireless Networks/03.Evil-Twin Attack",
+    "03.System and Network Compromising/01.Wireless Hacking Workshop/04.Attacking Wireless Networks/02.Attacking WPA2",
+    "03.System and Network Compromising/01.Wireless Hacking Workshop/04.Attacking Wireless Networks/01.Attacking WEP",
+    "03.System and Network Compromising/01.Wireless Hacking Workshop/04.Attacking Wireless Networks",
+    "03.System and Network Compromising/01.Wireless Hacking Workshop/03.Types of Security Protocols in 802.11",
+    "03.System and Network Compromising/01.Wireless Hacking Workshop/02.Types of Wireless Networks",
+    "03.System and Network Compromising/01.Wireless Hacking Workshop/01.How Wireless Networks are Working?",
+    "03.System and Network Compromising/02.Denial Of Service/06.Case Studies and Real-WorldExamples of DoS and DDoS Attacks"
+  ]
+}
