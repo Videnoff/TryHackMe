@@ -1,0 +1,109 @@
+# Nmap 7.94SVN scan initiated Sun Mar 10 20:02:08 2024 as: nmap -sC -sV -A -T4 -v -p- -oN scans/nmap.initial 10.10.68.62
+Warning: 10.10.68.62 giving up on port because retransmission cap hit (6).
+Nmap scan report for 10.10.68.62
+Host is up (0.058s latency).
+Not shown: 65507 closed tcp ports (reset)
+PORT      STATE    SERVICE            VERSION
+135/tcp   open     msrpc              Microsoft Windows RPC
+139/tcp   open     netbios-ssn        Microsoft Windows netbios-ssn
+445/tcp   open     microsoft-ds       Windows 7 Professional 7601 Service Pack 1 microsoft-ds (workgroup: WORKGROUP)
+3389/tcp  open     ssl/ms-wbt-server?
+| rdp-ntlm-info: 
+|   Target_Name: JON-PC
+|   NetBIOS_Domain_Name: JON-PC
+|   NetBIOS_Computer_Name: JON-PC
+|   DNS_Domain_Name: Jon-PC
+|   DNS_Computer_Name: Jon-PC
+|   Product_Version: 6.1.7601
+|_  System_Time: 2024-03-10T18:12:07+00:00
+|_ssl-date: 2024-03-10T18:12:12+00:00; -1s from scanner time.
+| ssl-cert: Subject: commonName=Jon-PC
+| Issuer: commonName=Jon-PC
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha1WithRSAEncryption
+| Not valid before: 2024-03-09T17:56:17
+| Not valid after:  2024-09-08T17:56:17
+| MD5:   d10c:e82d:9908:1143:747a:1ff4:fcef:7da6
+|_SHA-1: a7c0:8563:6f0c:d0d7:5ad5:cfcc:7242:d105:21ea:e9fd
+3875/tcp  filtered pnbscada
+5543/tcp  filtered unknown
+14455/tcp filtered unknown
+14748/tcp filtered unknown
+18190/tcp filtered unknown
+18395/tcp filtered unknown
+18921/tcp filtered unknown
+25396/tcp filtered unknown
+25890/tcp filtered unknown
+28084/tcp filtered unknown
+32893/tcp filtered unknown
+37047/tcp filtered unknown
+37513/tcp filtered unknown
+40529/tcp filtered unknown
+45622/tcp filtered unknown
+49152/tcp open     msrpc              Microsoft Windows RPC
+49153/tcp open     msrpc              Microsoft Windows RPC
+49154/tcp open     msrpc              Microsoft Windows RPC
+49158/tcp open     msrpc              Microsoft Windows RPC
+49160/tcp open     msrpc              Microsoft Windows RPC
+54868/tcp filtered unknown
+55505/tcp filtered unknown
+62191/tcp filtered unknown
+63101/tcp filtered unknown
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94SVN%E=4%D=3/10%OT=135%CT=1%CU=33045%PV=Y%DS=2%DC=T%G=Y%TM=65E
+OS:DF7FD%P=x86_64-pc-linux-gnu)SEQ(SP=107%GCD=1%ISR=10B%TI=I%CI=I%TS=7)SEQ(
+OS:SP=107%GCD=1%ISR=10B%TI=I%CI=I%II=I%SS=S%TS=7)OPS(O1=M508NW8ST11%O2=M508
+OS:NW8ST11%O3=M508NW8NNT11%O4=M508NW8ST11%O5=M508NW8ST11%O6=M508ST11)WIN(W1
+OS:=2000%W2=2000%W3=2000%W4=2000%W5=2000%W6=2000)ECN(R=Y%DF=Y%T=80%W=2000%O
+OS:=M508NW8NNS%CC=N%Q=)T1(R=Y%DF=Y%T=80%S=O%A=S+%F=AS%RD=0%Q=)T2(R=Y%DF=Y%T
+OS:=80%W=0%S=Z%A=S%F=AR%O=%RD=0%Q=)T3(R=Y%DF=Y%T=80%W=0%S=Z%A=O%F=AR%O=%RD=
+OS:0%Q=)T4(R=Y%DF=Y%T=80%W=0%S=A%A=O%F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=80%W=0%S=
+OS:Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=80%W=0%S=A%A=O%F=R%O=%RD=0%Q=)T7(R=
+OS:Y%DF=Y%T=80%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U1(R=Y%DF=N%T=80%IPL=164%UN=0%R
+OS:IPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=80%CD=Z)
+
+Uptime guess: 0.012 days (since Sun Mar 10 19:55:21 2024)
+Network Distance: 2 hops
+TCP Sequence Prediction: Difficulty=263 (Good luck!)
+IP ID Sequence Generation: Incremental
+Service Info: Host: JON-PC; OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| smb2-time: 
+|   date: 2024-03-10T18:12:07
+|_  start_date: 2024-03-10T17:56:15
+| smb-security-mode: 
+|   account_used: guest
+|   authentication_level: user
+|   challenge_response: supported
+|_  message_signing: disabled (dangerous, but default)
+| smb-os-discovery: 
+|   OS: Windows 7 Professional 7601 Service Pack 1 (Windows 7 Professional 6.1)
+|   OS CPE: cpe:/o:microsoft:windows_7::sp1:professional
+|   Computer name: Jon-PC
+|   NetBIOS computer name: JON-PC\x00
+|   Workgroup: WORKGROUP\x00
+|_  System time: 2024-03-10T13:12:07-05:00
+| smb2-security-mode: 
+|   2:1:0: 
+|_    Message signing enabled but not required
+|_clock-skew: mean: 59m59s, deviation: 2h14m09s, median: 0s
+| nbstat: NetBIOS name: JON-PC, NetBIOS user: <unknown>, NetBIOS MAC: 02:7d:da:0a:6c:33 (unknown)
+| Names:
+|   JON-PC<00>           Flags: <unique><active>
+|   WORKGROUP<00>        Flags: <group><active>
+|   JON-PC<20>           Flags: <unique><active>
+|   WORKGROUP<1e>        Flags: <group><active>
+|   WORKGROUP<1d>        Flags: <unique><active>
+|_  \x01\x02__MSBROWSE__\x02<01>  Flags: <group><active>
+
+TRACEROUTE (using port 22/tcp)
+HOP RTT      ADDRESS
+1   57.55 ms 10.8.0.1
+2   59.65 ms 10.10.68.62
+
+Read data files from: /usr/bin/../share/nmap
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Mar 10 20:12:13 2024 -- 1 IP address (1 host up) scanned in 604.83 seconds
