@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "69c39287024f4ac5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9feba6c301283e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f538ecb1692ef981",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b91d6a9f1d33df0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1259a170fda40134",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3538ca036f6a6bb5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "910f6015f8e19174",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9630ee9da7f9f50b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e65ff6f1206557d",
+        "type": "tabs",
+        "dimension": 32.88718929254301,
+        "children": [
+          {
+            "id": "9a8212a5f95d53f3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8ffd142760bc9050",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "042dff8decbf6f98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f8a8785ddd817fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e4142f2fa44ff17d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6c948960e8663492",
+        "type": "tabs",
+        "dimension": 33.556405353728486,
+        "children": [
+          {
+            "id": "0323071dcdeed2e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "070ebc3276469d7b",
+        "type": "tabs",
+        "dimension": 33.556405353728486,
+        "children": [
+          {
+            "id": "56195165dd87c34e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "f538ecb1692ef981",
+  "lastOpenFiles": [
+    "Task 4 Adoption into the Collective.md",
+    "Attachments/Pasted image 20240315193118.png",
+    "Attachments/Pasted image 20240315192815.png",
+    "Task 3 Breaching the Control Room.md",
+    "Task 2 Activate Forward Scanners and Launch Proton Torpedoes.md",
+    "Attachments/Pasted image 20240314232120.png",
+    "Attachments/Pasted image 20240314232037.png",
+    "Attachments/Pasted image 20240314231522.png",
+    "Attachments/Pasted image 20240314231501.png",
+    "Attachments/Pasted image 20240314230247.png",
+    "Attachments/Pasted image 20240314230036.png",
+    "Attachments/Pasted image 20240314225839.png",
+    "Attachments/Pasted image 20240314225814.png",
+    "Attachments",
+    "Task 1 Mission Start!.md",
+    "Welcome.md",
+    "Task 7 Extra Credit.md",
+    "Task 6 Post-Exploitation.md",
+    "Task 5 Looting.md",
+    "Task 4 Escalate.md",
+    "Task 3 Gain Access.md",
+    "Task 2 Recon.md",
+    "Attachments",
+    "Task 1 Connect.md",
+    "Task 5 Find flags!.md",
+    "Task 3 Escalate.md",
+    "Task 4 Cracking.md",
+    "Task 2 Gain Access.md",
+    "Attachments",
+    "Task 1 Recon.md",
+    "Task 5 Privilege Escalation.md",
+    "Task 4 Compromise the Webserver.md",
+    "Task 3 Locating directories using Gobuster.md",
+    "Task 2 Reconnaissance.md",
+    "Task 1 Deploy the machine.md",
+    "Attachments",
+    "Task 3 Msfconsole.md",
+    "Task 4 Working with modules.md",
+    "Task 5 Summary.md",
+    "Attachments",
+    "Attachments",
+    "Attachments",
+    "03.System and Network Compromising/01.Wireless Hacking Workshop/04.Attacking Wireless Networks/03.Evil-Twin Attack",
+    "03.System and Network Compromising/01.Wireless Hacking Workshop/04.Attacking Wireless Networks/02.Attacking WPA2",
+    "03.System and Network Compromising/01.Wireless Hacking Workshop/04.Attacking Wireless Networks/01.Attacking WEP"
+  ]
+}
