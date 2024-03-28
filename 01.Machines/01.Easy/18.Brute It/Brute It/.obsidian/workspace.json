@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "69c39287024f4ac5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6039bca52c4b7c60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b13672045a2744cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task 3 Getting a shell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fab2b36388a40020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task 4 Privilege Escalation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b91d6a9f1d33df0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1259a170fda40134",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3538ca036f6a6bb5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "910f6015f8e19174",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9630ee9da7f9f50b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e65ff6f1206557d",
+        "type": "tabs",
+        "dimension": 32.88718929254301,
+        "children": [
+          {
+            "id": "9a8212a5f95d53f3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8ffd142760bc9050",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Task 4 Privilege Escalation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "042dff8decbf6f98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Task 4 Privilege Escalation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f8a8785ddd817fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e4142f2fa44ff17d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Task 4 Privilege Escalation.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6c948960e8663492",
+        "type": "tabs",
+        "dimension": 33.556405353728486,
+        "children": [
+          {
+            "id": "0323071dcdeed2e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "070ebc3276469d7b",
+        "type": "tabs",
+        "dimension": 33.556405353728486,
+        "children": [
+          {
+            "id": "56195165dd87c34e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "fab2b36388a40020",
+  "lastOpenFiles": [
+    "Task 3 Getting a shell.md",
+    "Task 4 Privilege Escalation.md",
+    "Attachments/Pasted image 20240316202244.png",
+    "Attachments/Pasted image 20240316202216.png",
+    "Attachments/Pasted image 20240316201752.png",
+    "Attachments/Pasted image 20240316201707.png",
+    "Attachments/Pasted image 20240316200815.png",
+    "Attachments/Pasted image 20240316200714.png",
+    "Attachments/Pasted image 20240316200352.png",
+    "Attachments/Pasted image 20240316194852.png",
+    "Attachments/Pasted image 20240316194010.png",
+    "Attachments/Pasted image 20240316192814.png",
+    "Task 2 Reconnaissance.md",
+    "Attachments",
+    "Task 1 About this box.md",
+    "Welcome.md",
+    "Task 4 Adoption into the Collective.md",
+    "Task 3 Breaching the Control Room.md",
+    "Task 2 Activate Forward Scanners and Launch Proton Torpedoes.md",
+    "Attachments",
+    "Task 1 Mission Start!.md",
+    "Task 7 Extra Credit.md",
+    "Task 6 Post-Exploitation.md",
+    "Task 5 Looting.md",
+    "Task 4 Escalate.md",
+    "Task 3 Gain Access.md",
+    "Task 2 Recon.md",
+    "Attachments",
+    "Task 1 Connect.md",
+    "Task 5 Find flags!.md",
+    "Task 3 Escalate.md",
+    "Task 4 Cracking.md",
+    "Task 2 Gain Access.md",
+    "Attachments",
+    "Task 1 Recon.md",
+    "Task 5 Privilege Escalation.md",
+    "Task 4 Compromise the Webserver.md",
+    "Task 3 Locating directories using Gobuster.md",
+    "Task 1 Deploy the machine.md",
+    "Attachments",
+    "Attachments",
+    "Attachments",
+    "Attachments",
+    "03.System and Network Compromising/01.Wireless Hacking Workshop/04.Attacking Wireless Networks/03.Evil-Twin Attack",
+    "03.System and Network Compromising/01.Wireless Hacking Workshop/04.Attacking Wireless Networks/02.Attacking WPA2"
+  ]
+}
