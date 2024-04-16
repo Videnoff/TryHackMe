@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "69c39287024f4ac5",
+    "type": "split",
+    "children": [
+      {
+        "id": "322deb834faf19a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5a202141587f1c9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b91d6a9f1d33df0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1259a170fda40134",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3538ca036f6a6bb5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "910f6015f8e19174",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9630ee9da7f9f50b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e65ff6f1206557d",
+        "type": "tabs",
+        "dimension": 32.88718929254301,
+        "children": [
+          {
+            "id": "9a8212a5f95d53f3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8ffd142760bc9050",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "042dff8decbf6f98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f8a8785ddd817fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e4142f2fa44ff17d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6c948960e8663492",
+        "type": "tabs",
+        "dimension": 33.556405353728486,
+        "children": [
+          {
+            "id": "0323071dcdeed2e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "070ebc3276469d7b",
+        "type": "tabs",
+        "dimension": 33.556405353728486,
+        "children": [
+          {
+            "id": "56195165dd87c34e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "e5a202141587f1c9",
+  "lastOpenFiles": [
+    "Task 12 The Future - Quantum Computers and Encryption.md",
+    "Task 11 PGP, GPG and AES.md",
+    "Pasted image 20240403200411.png",
+    "Task 10 Explaining Diffie Hellman Key Exchange.md",
+    "Task 9 SSH Authentication.md",
+    "Pasted image 20240403195229.png",
+    "Task 8 Digital signatures and Certificates.md",
+    "Task 7 Establishing Keys Using Asymmetric Cryptography.md",
+    "Task 6 RSA - Rivest Shamir Adleman.md",
+    "Task 3 Why is Encryption important?.md",
+    "Task 5 Types of Encryption.md",
+    "Task 4 Crucial Crypto Maths.md",
+    "Task 2 Key terms.md",
+    "Task 1 What will this room cover?.md",
+    "Welcome.md",
+    "Attachments/Pasted image 20240330192439.png",
+    "Attachments/Pasted image 20240330192414.png",
+    "Attachments/Pasted image 20240330192400.png",
+    "Attachments/Pasted image 20240330192311.png",
+    "Attachments/Pasted image 20240330191740.png",
+    "Attachments/Pasted image 20240330191722.png",
+    "Attachments/Pasted image 20240330191510.png",
+    "Attachments/Pasted image 20240330191419.png",
+    "Task 1 Lazy Admin.md",
+    "Attachments",
+    "Task 11 Thank you!.md",
+    "Task 10 Finishing the job.md",
+    "Task 9 Binary Exploitation The pwntools way.md",
+    "Task 8 Binary - Exploitaion Manually.md",
+    "Task 7 pwndbg.md",
+    "Task 6 LinEnum.md",
+    "Task 5 Command Execution.md",
+    "Task 4 Web Exploitation.md",
+    "Task 3 Web Enumeration.md",
+    "Task 2 Host Enumeration.md",
+    "Attachments",
+    "Task 1 Intro.md",
+    "The Cod Caper",
+    "Task 1 Level 1.md",
+    "Attachments",
+    "Attachments",
+    "Attachments",
+    "Attachments",
+    "Attachments",
+    "Attachments",
+    "Attachments"
+  ]
+}
