@@ -1,0 +1,136 @@
+# Nmap 7.94SVN scan initiated Mon Apr 22 19:58:16 2024 as: nmap -sC -sV -A -T4 -v -p- -oN scans/nmap 10.10.105.168
+Nmap scan report for 10.10.105.168
+Host is up (0.064s latency).
+Not shown: 65532 closed tcp ports (reset)
+PORT     STATE SERVICE VERSION
+22/tcp   open  ssh     OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   2048 f3:85:ec:54:f2:01:b1:94:40:de:42:e8:21:97:20:80 (RSA)
+|   256 77:c7:c1:ae:31:41:21:e4:93:0e:9a:dd:0b:29:e1:ff (ECDSA)
+|_  256 07:05:43:46:9d:b2:3e:f0:4d:69:67:e4:91:d3:d3:7f (ED25519)
+80/tcp   open  http    Apache httpd 2.4.29 ((Ubuntu))
+| http-methods: 
+|_  Supported Methods: HEAD GET POST OPTIONS
+|_http-server-header: Apache/2.4.29 (Ubuntu)
+|_http-title: Apache2 Ubuntu Default Page: It works
+8000/tcp open  http    (PHP 7.2.32-1)
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+|_http-generator: Bolt
+|_http-title: Bolt | A hero is unleashed
+| fingerprint-strings: 
+|   FourOhFourRequest: 
+|     HTTP/1.0 404 Not Found
+|     Date: Mon, 22 Apr 2024 17:00:14 GMT
+|     Connection: close
+|     X-Powered-By: PHP/7.2.32-1+ubuntu18.04.1+deb.sury.org+1
+|     Cache-Control: private, must-revalidate
+|     Date: Mon, 22 Apr 2024 17:00:14 GMT
+|     Content-Type: text/html; charset=UTF-8
+|     pragma: no-cache
+|     expires: -1
+|     X-Debug-Token: dc5ea8
+|     <!doctype html>
+|     <html lang="en">
+|     <head>
+|     <meta charset="utf-8">
+|     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+|     <title>Bolt | A hero is unleashed</title>
+|     <link href="https://fonts.googleapis.com/css?family=Bitter|Roboto:400,400i,700" rel="stylesheet">
+|     <link rel="stylesheet" href="/theme/base-2018/css/bulma.css?8ca0842ebb">
+|     <link rel="stylesheet" href="/theme/base-2018/css/theme.css?6cb66bfe9f">
+|     <meta name="generator" content="Bolt">
+|     </head>
+|     <body>
+|     href="#main-content" class="vis
+|   GetRequest: 
+|     HTTP/1.0 200 OK
+|     Date: Mon, 22 Apr 2024 17:00:14 GMT
+|     Connection: close
+|     X-Powered-By: PHP/7.2.32-1+ubuntu18.04.1+deb.sury.org+1
+|     Cache-Control: public, s-maxage=600
+|     Date: Mon, 22 Apr 2024 17:00:14 GMT
+|     Content-Type: text/html; charset=UTF-8
+|     X-Debug-Token: 1d2e26
+|     <!doctype html>
+|     <html lang="en-GB">
+|     <head>
+|     <meta charset="utf-8">
+|     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+|     <title>Bolt | A hero is unleashed</title>
+|     <link href="https://fonts.googleapis.com/css?family=Bitter|Roboto:400,400i,700" rel="stylesheet">
+|     <link rel="stylesheet" href="/theme/base-2018/css/bulma.css?8ca0842ebb">
+|     <link rel="stylesheet" href="/theme/base-2018/css/theme.css?6cb66bfe9f">
+|     <meta name="generator" content="Bolt">
+|     <link rel="canonical" href="http://0.0.0.0:8000/">
+|     </head>
+|_    <body class="front">
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port8000-TCP:V=7.94SVN%I=7%D=4/22%Time=6626979E%P=x86_64-pc-linux-gnu%r
+SF:(GetRequest,28ED,"HTTP/1\.0\x20200\x20OK\r\nDate:\x20Mon,\x2022\x20Apr\
+SF:x202024\x2017:00:14\x20GMT\r\nConnection:\x20close\r\nX-Powered-By:\x20
+SF:PHP/7\.2\.32-1\+ubuntu18\.04\.1\+deb\.sury\.org\+1\r\nCache-Control:\x2
+SF:0public,\x20s-maxage=600\r\nDate:\x20Mon,\x2022\x20Apr\x202024\x2017:00
+SF::14\x20GMT\r\nContent-Type:\x20text/html;\x20charset=UTF-8\r\nX-Debug-T
+SF:oken:\x201d2e26\r\n\r\n<!doctype\x20html>\n<html\x20lang=\"en-GB\">\n\x
+SF:20\x20\x20\x20<head>\n\x20\x20\x20\x20\x20\x20\x20\x20<meta\x20charset=
+SF:\"utf-8\">\n\x20\x20\x20\x20\x20\x20\x20\x20<meta\x20name=\"viewport\"\
+SF:x20content=\"width=device-width,\x20initial-scale=1\.0\">\n\x20\x20\x20
+SF:\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<title>Bolt\x20\|\x
+SF:20A\x20hero\x20is\x20unleashed</title>\n\x20\x20\x20\x20\x20\x20\x20\x2
+SF:0<link\x20href=\"https://fonts\.googleapis\.com/css\?family=Bitter\|Rob
+SF:oto:400,400i,700\"\x20rel=\"stylesheet\">\n\x20\x20\x20\x20\x20\x20\x20
+SF:\x20<link\x20rel=\"stylesheet\"\x20href=\"/theme/base-2018/css/bulma\.c
+SF:ss\?8ca0842ebb\">\n\x20\x20\x20\x20\x20\x20\x20\x20<link\x20rel=\"style
+SF:sheet\"\x20href=\"/theme/base-2018/css/theme\.css\?6cb66bfe9f\">\n\x20\
+SF:x20\x20\x20\t<meta\x20name=\"generator\"\x20content=\"Bolt\">\n\x20\x20
+SF:\x20\x20\t<link\x20rel=\"canonical\"\x20href=\"http://0\.0\.0\.0:8000/\
+SF:">\n\x20\x20\x20\x20</head>\n\x20\x20\x20\x20<body\x20class=\"front\">\
+SF:n\x20\x20\x20\x20\x20\x20\x20\x20<a\x20")%r(FourOhFourRequest,1527,"HTT
+SF:P/1\.0\x20404\x20Not\x20Found\r\nDate:\x20Mon,\x2022\x20Apr\x202024\x20
+SF:17:00:14\x20GMT\r\nConnection:\x20close\r\nX-Powered-By:\x20PHP/7\.2\.3
+SF:2-1\+ubuntu18\.04\.1\+deb\.sury\.org\+1\r\nCache-Control:\x20private,\x
+SF:20must-revalidate\r\nDate:\x20Mon,\x2022\x20Apr\x202024\x2017:00:14\x20
+SF:GMT\r\nContent-Type:\x20text/html;\x20charset=UTF-8\r\npragma:\x20no-ca
+SF:che\r\nexpires:\x20-1\r\nX-Debug-Token:\x20dc5ea8\r\n\r\n<!doctype\x20h
+SF:tml>\n<html\x20lang=\"en\">\n\x20\x20\x20\x20<head>\n\x20\x20\x20\x20\x
+SF:20\x20\x20\x20<meta\x20charset=\"utf-8\">\n\x20\x20\x20\x20\x20\x20\x20
+SF:\x20<meta\x20name=\"viewport\"\x20content=\"width=device-width,\x20init
+SF:ial-scale=1\.0\">\n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20
+SF:\x20\x20\x20<title>Bolt\x20\|\x20A\x20hero\x20is\x20unleashed</title>\n
+SF:\x20\x20\x20\x20\x20\x20\x20\x20<link\x20href=\"https://fonts\.googleap
+SF:is\.com/css\?family=Bitter\|Roboto:400,400i,700\"\x20rel=\"stylesheet\"
+SF:>\n\x20\x20\x20\x20\x20\x20\x20\x20<link\x20rel=\"stylesheet\"\x20href=
+SF:\"/theme/base-2018/css/bulma\.css\?8ca0842ebb\">\n\x20\x20\x20\x20\x20\
+SF:x20\x20\x20<link\x20rel=\"stylesheet\"\x20href=\"/theme/base-2018/css/t
+SF:heme\.css\?6cb66bfe9f\">\n\x20\x20\x20\x20\t<meta\x20name=\"generator\"
+SF:\x20content=\"Bolt\">\n\x20\x20\x20\x20</head>\n\x20\x20\x20\x20<body>\
+SF:n\x20\x20\x20\x20\x20\x20\x20\x20<a\x20href=\"#main-content\"\x20class=
+SF:\"vis");
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94SVN%E=4%D=4/22%OT=22%CT=1%CU=40719%PV=Y%DS=2%DC=T%G=Y%TM=6626
+OS:97B6%P=x86_64-pc-linux-gnu)SEQ(SP=101%GCD=1%ISR=106%TI=Z%CI=Z%II=I%TS=A)
+OS:OPS(O1=M508ST11NW7%O2=M508ST11NW7%O3=M508NNT11NW7%O4=M508ST11NW7%O5=M508
+OS:ST11NW7%O6=M508ST11)WIN(W1=F4B3%W2=F4B3%W3=F4B3%W4=F4B3%W5=F4B3%W6=F4B3)
+OS:ECN(R=Y%DF=Y%T=40%W=F507%O=M508NNSNW7%CC=Y%Q=)T1(R=Y%DF=Y%T=40%S=O%A=S+%
+OS:F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T
+OS:5(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=40%W=0%S=A%A=
+OS:Z%F=R%O=%RD=0%Q=)T7(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U1(R=Y%DF
+OS:=N%T=40%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=40
+OS:%CD=S)
+
+Uptime guess: 46.936 days (since Wed Mar  6 20:32:57 2024)
+Network Distance: 2 hops
+TCP Sequence Prediction: Difficulty=257 (Good luck!)
+IP ID Sequence Generation: All zeros
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 995/tcp)
+HOP RTT      ADDRESS
+1   63.42 ms 10.8.0.1
+2   63.46 ms 10.10.105.168
+
+Read data files from: /usr/bin/../share/nmap
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Apr 22 20:00:38 2024 -- 1 IP address (1 host up) scanned in 141.30 seconds
