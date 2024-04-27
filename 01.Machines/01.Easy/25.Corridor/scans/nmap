@@ -1,0 +1,16 @@
+# Nmap 7.94SVN scan initiated Wed Apr 24 18:51:19 2024 as: nmap -sC -sV -A -T4 -v -p- -Pn -oN scans/nmap 10.10.60.36
+Nmap scan report for 10.10.60.36
+Host is up (0.057s latency).
+All 65535 scanned ports on 10.10.60.36 are in ignored states.
+Not shown: 65535 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 199/tcp)
+HOP RTT      ADDRESS
+1   56.92 ms 10.8.0.1
+2   57.03 ms 10.10.60.36
+
+Read data files from: /usr/bin/../share/nmap
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Wed Apr 24 18:53:34 2024 -- 1 IP address (1 host up) scanned in 135.08 seconds
